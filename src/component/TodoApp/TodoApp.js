@@ -10,6 +10,7 @@ export default class TodoApp extends Component {
     editItem = (key)=>{
      const allItems = this.state.items;
      allItems[key]=  prompt("Change your item name");
+    this.setState({})
       
 
     }
