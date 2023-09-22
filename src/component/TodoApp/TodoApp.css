@@ -59,7 +59,7 @@ ul li{
 }
 
 ul li i{
-    text-align: right;
+    text-align: center;
     flex: 1;
     cursor: pointer;
 }

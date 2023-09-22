@@ -1,0 +1,20 @@
+header{
+    background-color:  rgb(13, 24, 48);
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+a{
+    color: rgba(173, 206, 206, 0.747);
+    text-decoration: none;
+    padding: 20px;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
